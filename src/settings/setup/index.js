@@ -1,0 +1,11 @@
+export const BOX_TYPES = ["triangle", "circle", "rectangle"];
+export const BOX_MAX_WEIGHT = 10;
+export const BOX_MIN_WEIGHT = 1;
+export const BOX_DISPLAY_QUANTITY = 2;
+export const MAX_WEIGHT_DIFFERENCE = 20;
+export const CROSSBAR_WIDTH = 10;
+export const CROSSBAR_MAX_BENDING = 30;
+export const CROSSBAR_MIN_BENDING = -30;
+export const BASIC_TIMEOUT_DURATION = 200;
+export const BASIC_TIMEOUT_STEP = 10;
+export const STEPS_TO_LEVELUP = 5;
